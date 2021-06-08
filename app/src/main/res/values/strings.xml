@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ESP App 1.0</string>
+    <string-array name="roomList">
+        <item>Dining Room</item>
+        <item>Living Room</item>
+        <item>OUT</item>
+        <item>Room 01</item>
+        <item>Room 02</item>
+        <item>Washroom</item>
+    </string-array>
+</resources>
